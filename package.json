@@ -1,0 +1,12 @@
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "description": "A practice project",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^27.0.4"
+    }
+  }
+  
